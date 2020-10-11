@@ -1,6 +1,6 @@
 # Customer-in-mall-clustering
 
-Understand about customers coming up in mall.
+Goal:Understand about customers coming up in mall.
 
 Performed steps of data profiling, data preprocessing and exploratory data analysis on the dataset.
 
